@@ -1,0 +1,12 @@
+nome: fse
+Autore: hf
+tipologia: se
+prezzo: 8.0
+quantità: 6
+
+nome: rsef
+Autore: 8
+tipologia: j
+prezzo: 8.0
+quantità: 5
+
